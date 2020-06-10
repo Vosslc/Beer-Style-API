@@ -1,8 +1,9 @@
 {
   "name": "beer-style-api",
+  "main": "server/server.js",
+  "proxy": "http://localhost:4420",
   "version": "1.0.0",
   "description": "Style guideline for craft beers",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

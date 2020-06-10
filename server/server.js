@@ -1,14 +1,3 @@
-// const express = require('express');
-
-// const app = express();
-
-
-
-// app.listen(3000, function(){
-//   console.log("Listening")
-// });
-
-
 require("dotenv").config();
 const express = require("express");
 const massive = require("massive");
@@ -38,3 +27,18 @@ massive(CONNECTION_STRING).then(database => {
     console.log(`listening on port ${SERVER_PORT}`)
   );
 });
+
+
+
+
+
+// ! use as Ref
+// const express = require('express');
+
+// const app = express();
+
+
+
+// app.listen(3000, function(){
+//   console.log("Listening")
+// });
