@@ -7,7 +7,7 @@ const { CONNECTION_STRING } = process.env;
 const SERVER_PORT = process.env.SERVER_PORT || 8000;
 
 //! Controllers
-const airplanesCtrl = require("./controllers/airplanesCtrl")
+const baseStylesCtrl = require("./controllers/baseStylesCtrl")
 //
 
 //! Middleware
@@ -30,6 +30,6 @@ app.get('/', (req, res) => res.send('<h1>Beer Style API</h1>'))
 // 
 
 
-//Airplanes Endpoints
+//Base Styles Endpoints
 
-app.get("/api/planes", airplanesCtrl.getAirplanes)
+app.get("/api/styles", baseStylesCtrl.getBaseStyles)

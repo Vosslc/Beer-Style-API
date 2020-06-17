@@ -1,0 +1,79 @@
+[
+	{
+    "styleId": 1,
+		"Ale Style":[
+			{
+				"styleId":1,
+				"id":1,
+				"categoryId":1,
+				"category":{
+					"id":1,
+					"name":"British Origin Ales",
+					"createDate":"2012-03-21 20:06:45"
+				},
+				"name":"Classic English-Style Pale Ale",
+				"shortName":"English Pale",
+				"description":"Classic English pale ales are golden to copper colored and display earthy, herbal English-variety hop character. Note that \"earthy, herbal English-variety hop character\" is the perceived end, but may be a result of the skillful use of hops of other national origins. Medium to high hop bitterness, flavor, and aroma should be evident. This medium-bodied pale ale has low to medium malt flavor and aroma. Low caramel character is allowable. Fruity-ester flavors and aromas are moderate to strong. Chill haze may be in evidence only at very cold temperatures. The absence of diacetyl is desirable, though, diacetyl (butterscotch character) is acceptable and characteristic when at very low levels.",
+				"ibuMin":"20",
+				"ibuMax":"40",
+				"abvMin":"4.5",
+				"abvMax":"5.5",
+				"srmMin":"5",
+				"srmMax":"5",
+				"ogMin":"1.04",
+				"fgMin":"1.008",
+				"fgMax":"1.016",
+				"createDate":"2012-03-21 20:06:45",
+				"updateDate":"2015-04-07 15:18:23"
+			},
+			{
+				"styleId":1,
+				"id":2,
+				"categoryId":1,
+				"category":{
+					"id":1,
+					"name":"British Origin Ales",
+					"createDate":"2012-03-21 20:06:45"
+				},
+				"name":"English-Style India Pale Ale",
+				"shortName":"English IPA",
+				"description":"Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+				"ibuMin":"35",
+				"ibuMax":"63",
+				"abvMin":"5",
+				"abvMax":"7",
+				"srmMin":"6",
+				"srmMax":"14",
+				"ogMin":"1.05",
+				"fgMin":"1.012",
+				"fgMax":"1.018",
+				"createDate":"2012-03-21 20:06:45",
+				"updateDate":"2015-04-07 15:18:33"
+			},
+			{
+				"styleId":1,
+				"id":22,
+				"categoryId":2,
+				"category":{
+					"id":2,
+					"name":"Irish Origin Ales",
+					"createDate":"2012-03-21 20:06:45"
+				},
+				"name":"Irish-Style Red Ale",
+				"shortName":"Irish Red",
+				"description":"Irish-style red ales range from light red-amber-copper to light brown in color. These ales have a medium hop bitterness and flavor. They often don't have hop aroma. Irish-style red ales have low to medium candy-like caramel malt sweetness and may have a balanced subtle degree of roast barley or roast malt character and complexity.  Irish-style Red Ales have a medium body. The style may have low levels of fruity-ester flavor and aroma. Diacetyl should be absent or at very low levels. Chill haze is allowable at cold temperatures. Slight yeast haze is acceptable for bottle-conditioned products.",
+				"ibuMin":"20",
+				"ibuMax":"28",
+				"abvMin":"4",
+				"abvMax":"4.5",
+				"srmMin":"11",
+				"srmMax":"18",
+				"ogMin":"1.04",
+				"fgMin":"1.01",
+				"fgMax":"1.014",
+				"createDate":"2012-03-21 20:06:45",
+				"updateDate":"2015-04-07 15:23:38"
+			}
+		]
+	}
+]
